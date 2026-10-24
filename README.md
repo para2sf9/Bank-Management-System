@@ -1,5 +1,8 @@
 # Northstar — banking management demo
-
+<img width="1366" height="768" alt="Screenshot (509)" src="https://github.com/user-attachments/assets/8ba47eb6-adb9-466d-8d7f-332060cb5036" /><br/>
+<img width="1366" height="768" alt="Screenshot (512)" src="https://github.com/user-attachments/assets/95a6a861-fce0-4b0b-a3ab-8fc6b4108c21" /><br/>
+<img width="1366" height="768" alt="Screenshot (513)" src="https://github.com/user-attachments/assets/d6817dd6-188e-4c48-8e31-b3b0dcac79d2" /><br/>
+<img width="1366" height="768" alt="Screenshot (514)" src="https://github.com/user-attachments/assets/8b318779-c947-4d07-89e3-06bdda232583" /><br/>
 A full-stack **simulated banking** app built with React, Express, Node.js, and MongoDB. The visual direction is a modern retail-banking dashboard, not a copy of any bank's branding. **This is a portfolio/learning demo, is not affiliated with HDFC Bank or any financial institution, and must not be used to collect real banking credentials or handle real money.** All balances and transfers are fictitious.
 
 ## Included
